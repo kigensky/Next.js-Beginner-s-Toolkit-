@@ -16,7 +16,7 @@ This project is designed for developers who are new to Next.js and want a solid 
 - GitHub integration workflow
 - Comprehensive documentation and examples
 
-**Live Demo:** [Add your Vercel URL here after deployment]
+**Live Demo:** [https://next-js-beginner-s-toolkit-2c1lvcqwa-victor-kigens-projects.vercel.app/]
 
 ---
 
@@ -86,7 +86,7 @@ Before you begin, ensure you have the following installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/my-first-nextjs-app.git
+git clone https://github.com/kigensky/my-first-nextjs-app.git
 cd my-first-nextjs-app
 ```
 
