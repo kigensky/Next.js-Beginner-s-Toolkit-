@@ -6,22 +6,22 @@ export default function Home() {
           Welcome to My Next.js App! 🚀
         </h1>
         <p className="text-xl text-gray-600 mb-8">
-          Built by [Your Name] using Next.js and deployed on Vercel
+          Built by victor kigen using Next.js and deployed on Vercel
         </p>
         <div className="flex gap-4 justify-center">
           <a
-            href="https://nextjs.org/docs"
+            href="https://moringaschool.com/"
             className="bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition"
             target="_blank"
           >
-            Read the Docs
+            Moringa School
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/kigensky"
             className="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700 transition"
             target="_blank"
           >
-            View on GitHub
+            View My Github 
           </a>
         </div>
       </div>
