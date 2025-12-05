@@ -708,7 +708,15 @@ As part of the Moringa School AI Program, we've documented our learning process 
 
 ### Example: Understanding Next.js Routing
 
-**Learning Goal**: "I want to improve my understanding of routing in NextJS"
+**Learning Goal**: "I want to improve my understanding of routing in Nextjs.
+
+1. Could you explain this feature with simple examples?
+
+2. Show me 3 practical use cases where this would be valuable
+
+3. Provide a small project idea that would help me practice this feature
+
+4. What common mistakes should I avoid when using this feature?"
 
 #### 1. **Could you explain this feature with simple examples?**
 
